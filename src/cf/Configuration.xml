@@ -366,6 +366,7 @@
 			<Role>МенеджерПоПродажам</Role>
 			<Role>Продавец</Role>
 			<Role>ПользовательБот</Role>
+			<Role>Роль18</Role>
 			<CommonTemplate>ДрайверСканераШтрихкодов</CommonTemplate>
 			<CommonTemplate>КомпонентаПечатиШтрихкодовWindows32</CommonTemplate>
 			<CommonTemplate>КомпонентаПечатиШтрихкодовWindows64</CommonTemplate>
